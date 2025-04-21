@@ -1,0 +1,36 @@
+/your-website-folder/
+|-- index.html             # Homepage
+|-- services.html          # Main Services Page (or create separate files)
+|-- cctv-installation.html # Example Service Detail Page
+|-- biometric-systems.html # Example Service Detail Page
+|-- about.html             # About Us Page
+|-- contact.html           # Contact Us Page
+|-- privacy.html           # Privacy Policy Page
+|-- thank-you.html         # Page shown after form submission
+|
+|-- css/
+|   |-- bootstrap.min.css  # Bootstrap CSS (Download from getbootstrap.com)
+|   |-- style.css          # Your custom styles
+|
+|-- js/
+|   |-- bootstrap.bundle.min.js # Bootstrap JS (Download)
+|   |-- script.js          # Your custom JavaScript (if needed)
+|
+|-- img/
+|   |-- logo.png           # Your company logo
+|   |-- hero-background.jpg# Background for homepage hero section
+|   |-- cctv-icon.png
+|   |-- biometric-icon.png
+|   |-- service1.jpg
+|   |-- testimonial1.jpg
+|   |-- ... (other images)
+|
+|-- php/
+|   |-- contact_form_handler.php # PHP script to process the form
+|
+|-- assets/
+|   |-- fontawesome/       # Font Awesome files (Download from fontawesome.com)
+|
+|-- .htaccess              # For server configuration (e.g., clean URLs - advanced)
+|-- robots.txt             # Tells search engine crawlers what they can/cannot crawl
+|-- sitemap.xml            # Lists all your pages for search engines

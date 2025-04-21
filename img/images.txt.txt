@@ -1,0 +1,93 @@
+.png Files:
+img/logo.png
+Used in: Navigation bar (all pages), Footer (all pages).
+Purpose: Your company's official logo. PNG is often good for logos, especially if they need transparency.
+.jpg Files:
+img/hero-background.jpg
+Used in: index.html (Homepage)
+Purpose: Large background image for the main banner/hero section. JPG is suitable for photographic backgrounds.
+img/kolkata-team.jpg
+Used in: index.html (Homepage - "Why Choose Us" section)
+Purpose: Suggested image to build trust – could be your team, an installation shot, or a relevant graphic.
+img/testimonial1.jpg
+Used in: index.html (Homepage - Testimonials section)
+Purpose: Photo of the client giving the first testimonial.
+img/testimonial2.jpg
+Used in: index.html (Homepage - Testimonials section)
+Purpose: Photo of the client giving the second testimonial. (Implies you might need testimonial3.jpg, testimonial4.jpg, etc.)
+img/service-cctv-main.jpg
+Used in: services.html (Main Services Page)
+Purpose: Image representing your overall CCTV services.
+img/service-biometric-main.jpg
+Used in: services.html (Main Services Page)
+Purpose: Image representing your overall Biometric services.
+img/service-maintenance.jpg
+Used in: services.html (Main Services Page)
+Purpose: Image representing your Repair and Maintenance services.
+img/cctv-installation-banner.jpg
+Used in: cctv-installation.html (Specific Service Page)
+Purpose: Main illustrative banner/image for the CCTV installation details page.
+img/biometric-systems-banner.jpg
+Used in: biometric-systems.html (Specific Service Page)
+Purpose: Main illustrative banner/image for the Biometric systems details page.
+img/about-us-team.jpg
+Used in: about.html (About Us Page)
+Purpose: Image to visually represent your company/team on the About Us page.
+img/office-front.jpg
+Mentioned as a suggestion earlier for: contact.html (Contact Page)
+Purpose: Potential image showing your office exterior to help visitors locate you or build trust.
+Summary:
+Total Files Listed: 12 (1 PNG, 11 JPG)
+File Types Used in Examples: .png, .jpg
+Important Reminders:
+These are placeholder names. You need to replace them with your actual image files.
+You can use either .jpg or .png (or other web formats like .webp) depending on the image content (JPG is generally better for photos, PNG for graphics/logos with transparency).
+Ensure all image paths in your final code match where you actually store the images (the examples assume an img/ folder).
+Optimize all images for web use.
+You will likely need more images than this list to fully illustrate your services and build a visually appealing site.
+
+
+Image List with Suggested Dimensions:
+img/logo.png
+Type: PNG (allows transparency)
+Usage: Navbar, Footer (displayed small, e.g., 40-50px height)
+Suggested Dimensions: Create larger for clarity, e.g., ~300px wide x 100px high (adjust height based on your logo's shape) or ~200px x 200px if squarish. Let the browser scale it down.
+img/hero-background.jpg
+Type: JPG (photographic content)
+Usage: Full-width or near full-width background banner on the homepage.
+Suggested Dimensions: Needs to be wide. 1920px wide x (e.g., 600px to 1080px) high. The height depends on how tall you want the hero section. Focus on a good wide aspect ratio (like 16:9 or wider) and optimize file size heavily.
+img/kolkata-team.jpg / img/about-us-team.jpg
+Type: JPG
+Usage: Often placed in half-width columns (e.g., col-md-6) on Homepage/About page.
+Suggested Dimensions: Aim for ~2x the typical column width. ~1200px wide x ~800px high (4:3 ratio) or ~1200px wide x ~675px high (16:9 ratio).
+img/testimonial1.jpg / img/testimonial2.jpg (and subsequent ones)
+Type: JPG
+Usage: Small profile pictures in the testimonials section, often displayed as circles (e.g., 80x80px or 100x100px).
+Suggested Dimensions: Provide a square image for easier cropping. ~300px x 300px (1:1 ratio).
+img/service-cctv-main.jpg / img/service-biometric-main.jpg / img/service-maintenance.jpg
+Type: JPG
+Usage: Used in half-width columns (col-md-6) on the main Services page.
+Suggested Dimensions: Similar to team photos. ~1200px wide x ~800px high (4:3 ratio) or ~1200px wide x ~675px high (16:9 ratio).
+img/cctv-installation-banner.jpg / img/biometric-systems-banner.jpg
+Type: JPG
+Usage: Main illustrative image on specific service pages, often in a wider column (e.g., col-lg-8).
+Suggested Dimensions: Needs good width for larger columns. ~1600px wide x ~900px high (16:9 ratio) or similar.
+img/office-front.jpg (If used)
+Type: JPG
+Usage: Potential image on the Contact page, likely in a half-width column (col-lg-6).
+Suggested Dimensions: Similar to team/service photos. ~1200px wide x ~800px high (4:3 ratio) or ~1200px wide x ~675px high (16:9 ratio).
+Summary Table:
+Image File	Suggested Dimensions (Approx W x H)	Aspect Ratio (Approx)	Notes
+
+
+logo.png	300 x 100 px (or 200x200)	Varies / 1:1	Needs transparency, displayed small
+hero-background.jpg	1920 x (600-1080) px	Wide (e.g., 16:9)	Full-width background, optimize heavily
+kolkata-team.jpg	1200 x 800 px	4:3 or 3:2	Used in half-width columns
+about-us-team.jpg	1200 x 800 px	4:3 or 3:2	Used in half-width columns
+testimonialX.jpg	300 x 300 px	1:1	Displayed small, often cropped to circle
+service-cctv-main.jpg	1200 x 800 px	4:3 or 3:2	Used in half-width columns
+service-biometric-main.jpg	1200 x 800 px	4:3 or 3:2	Used in half-width columns
+service-maintenance.jpg	1200 x 800 px	4:3 or 3:2	Used in half-width columns
+cctv-installation-banner.jpg	1600 x 900 px	16:9	Used in wider columns (e.g., col-lg-8)
+biometric-systems-banner.jpg	1600 x 900 px	16:9	Used in wider columns (e.g., col-lg-8)
+office-front.jpg (if used)	1200 x 800 px	4:3 or 3:2	Used in half-width columns
